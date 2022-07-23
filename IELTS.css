@@ -1,0 +1,277 @@
+
+
+.horizontal-list li{
+    display: inline-block;
+    margin: 0px 8px 8px 0px;
+    font-weight: 100;
+    font-size: 0.9rem;
+    list-style: none;
+    padding-left: 0px;
+    margin: 0px;
+}
+section{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+#study{
+    font-size: 1.5rem;
+    text-align: center;
+
+}
+#study1{
+    margin-top: 2px;
+    font-size: 4rem;
+    text-align: center;
+    margin-bottom: 2px;
+
+}
+
+#your{
+    color: orange;
+}
+#myvideo1{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.classroom{
+    width: 10rem;
+    height: 1.5rem;
+    background-color:rgb(2, 2, 50);
+    border-radius: 1rem;
+    border: 6px solid orange;
+    margin-left:20px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+
+    
+}
+.discover{
+margin-top: 2px;
+    margin-left: 30%;
+}
+#myVideo{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+/*  
+why ielts section*/
+#whyIelts1{
+    background-color: rgb(3, 3, 44);
+    width: 100%;
+    height: 100%;
+}
+  /*#ieltsflex{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    
+}
+*/
+#box3{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 12%;
+    
+}
+#box2{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 12%;
+    
+}
+.heading{
+    height: 2remrem;
+    width: 100%;
+    background-color:red;
+    border-radius: 1rem;
+    text-transform: uppercase;
+}
+#ielts{
+    width: 40%;
+    height:10%;
+
+    border-radius:20px;
+    border: 2px solid orange;
+
+    margin-bottom: 40px;
+    text-align: center;
+    color:black;
+    font-size: 1.8rem;
+
+    padding-top: 10px;
+    margin-top: 40px;
+    color: white;
+    margin-left:35%;
+
+}
+.reasonbox{
+    width: 20rem;
+    height: 15rem;
+    background-color:rgb(2, 2, 44);
+    border-radius: 1rem;
+    border: 8px solid orange;
+    margin-left: 50px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 1.4rem;
+    color: white;
+    
+}
+.l{
+    margin-left: 15%;
+}
+.reasonboximg{
+    width: 20rem;
+    height: 15rem;
+    background-color:rgb(2, 2, 44);
+    border-radius: 1rem;
+    
+    margin-left: 50px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 1.4rem;
+    color: white;
+    
+}
+
+  
+/*  contact us section */
+#contactus{
+    
+    background-image:url("magnet-me-JUpaXbh-Fgc-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    height: fit-content;
+    opacity: 0.5;
+    height: 100vh;
+    }
+    #contactflex{
+        display: flex;
+        
+    }
+    #stuck{
+        width: 30%;
+        height: 30%;
+        background-color: rgb(2, 2, 44);
+        align-items: flex-start;
+        color:orange;
+        text-transform: uppercase;
+        font-size: 1.5rem;
+        text-align: center;
+        border-radius: 100px;
+    padding-top: 100px;
+    }
+    
+    
+
+#formdiv{
+    width:100%;
+    height: 100%;
+    margin-left: 50%;
+    background-color: rgb(2, 2, 44);
+
+    
+}
+#formheading{
+    padding-left: 4%;
+    padding-right: 4%;
+    width:90%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border: 4px solid orange;
+    font-weight: bold;
+    font-size: 2rempx;
+    color: white;
+    text-align: center;
+    
+}
+.form{
+    padding-left: 4%;
+    padding-right: 4%;
+    width: 90%;
+    height: 65%;
+    border:4px solid orange ;
+    color: white;
+    text-align: center;
+    margin-bottom: 20%;
+}
+
+.form-control{
+    width:97%;
+
+    border: 2px solid black;
+    font-weight: bold;
+    font-size: 2rem;    
+
+}
+.btn{
+    margin-top: 20px;
+
+    width:97%;
+
+    border: 2px solid black;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;background-color: rgba(227, 160, 4, 0.858);
+    
+    height: 40px;
+}
+/*
+perfomance */
+#perfomance{
+    background-color: rgb(2, 2, 44);;
+}
+#perfomanceheading{
+    width: 25rem;
+    height: 2rem;
+    color: white;
+    border: 2px solid orange;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 8%;
+    font-size: 1.5rem;
+}
+#pflex{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.outer{
+    width: 200px;
+    height: 200px;
+    background-color: 4px solid orange;
+    margin-right: 100px;
+    margin-left: 20px;
+}
+.inner{
+    width: 15rem;
+    height: 5rem;
+    border-top: 8px solid orange;
+    border-bottom: 8px solid orange;
+   
+}
+.text{
+    color: orange;
+    margin-left: 40px;
+    font-size: 2rem;
+}
+.last{
+    margin-left: 70%;
+    font-size: 2rem;
+    
+}
+.attempts{
+    margin-left:70%;
+}
